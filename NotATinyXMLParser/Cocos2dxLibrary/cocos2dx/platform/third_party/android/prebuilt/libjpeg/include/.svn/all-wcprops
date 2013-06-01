@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jpeglib.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jconfig.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jerror.h
+END

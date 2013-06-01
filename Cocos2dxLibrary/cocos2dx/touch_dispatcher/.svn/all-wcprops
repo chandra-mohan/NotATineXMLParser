@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher
+END
+CCTouchDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouchDispatcher.cpp
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouchDispatcher.h
+END
+CCTouchHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouchHandler.cpp
+END
+CCTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouch.cpp
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouchHandler.h
+END
+CCTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/touch_dispatcher/CCTouch.h
+END

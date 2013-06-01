@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes
+END
+CCLabelAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes/CCLabelAtlas.h
+END
+CCLabelBMFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes/CCLabelBMFont.h
+END
+CCLabelTTF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes/CCLabelTTF.cpp
+END
+CCLabelTTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes/CCLabelTTF.h
+END
+CCLabelAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes/CCLabelAtlas.cpp
+END
+CCLabelBMFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/label_nodes/CCLabelBMFont.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/support/user_default
+END
+CCUserDefault.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mobile/!svn/ver/108227/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/support/user_default/CCUserDefault.h
+END
+CCUserDefault.mm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/support/user_default/CCUserDefault.mm
+END
+CCUserDefault.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/support/user_default/CCUserDefault.cpp
+END
+CCUserDefaultAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/support/user_default/CCUserDefaultAndroid.cpp
+END

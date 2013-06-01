@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc
+END
+fmod_memoryinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod_memoryinfo.h
+END
+fmod_dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod_dsp.h
+END
+fmod_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod_errors.h
+END
+fmod_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod_codec.h
+END
+fmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod.h
+END
+fmod.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod.hpp
+END
+fmod_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmod_output.h
+END
+fmodlinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/CocosDenshion/third_party/fmod/lib64/api/inc/fmodlinux.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes
+END
+CCParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleSystem.cpp
+END
+CCParticleSystemQuad.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleSystemQuad.h
+END
+CCParticleBatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleBatchNode.cpp
+END
+CCParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleSystem.h
+END
+CCParticleBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleBatchNode.h
+END
+CCParticleExamples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleExamples.cpp
+END
+CCParticleSystemQuad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleSystemQuad.cpp
+END
+firePngData.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/firePngData.h
+END
+CCParticleExamples.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/particle_nodes/CCParticleExamples.h
+END

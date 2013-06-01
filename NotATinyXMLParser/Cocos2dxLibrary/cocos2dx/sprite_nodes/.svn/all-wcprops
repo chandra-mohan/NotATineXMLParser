@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes
+END
+CCAnimationCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCAnimationCache.h
+END
+CCSpriteFrameCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSpriteFrameCache.h
+END
+CCSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSprite.h
+END
+CCSpriteBatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSpriteBatchNode.cpp
+END
+CCAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCAnimation.cpp
+END
+CCSpriteFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSpriteFrame.cpp
+END
+CCAnimationCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCAnimationCache.cpp
+END
+CCSpriteBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSpriteBatchNode.h
+END
+CCAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCAnimation.h
+END
+CCSpriteFrameCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSpriteFrameCache.cpp
+END
+CCSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSprite.cpp
+END
+CCSpriteFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/sprite_nodes/CCSpriteFrame.h
+END

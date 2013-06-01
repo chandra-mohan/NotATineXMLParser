@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/LocalStorage
+END
+LocalStorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/LocalStorage/LocalStorage.cpp
+END
+LocalStorageAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/LocalStorage/LocalStorageAndroid.cpp
+END
+LocalStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/LocalStorage/LocalStorage.h
+END

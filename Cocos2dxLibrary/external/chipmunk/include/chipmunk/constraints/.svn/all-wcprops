@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints
+END
+cpPinJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpPinJoint.h
+END
+cpSimpleMotor.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpSimpleMotor.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/util.h
+END
+cpDampedSpring.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpDampedSpring.h
+END
+cpDampedRotarySpring.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h
+END
+cpRatchetJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpRatchetJoint.h
+END
+cpGearJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpGearJoint.h
+END
+cpRotaryLimitJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h
+END
+cpConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpConstraint.h
+END
+cpSlideJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpSlideJoint.h
+END
+cpGrooveJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpGrooveJoint.h
+END
+cpPivotJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/external/chipmunk/include/chipmunk/constraints/cpPivotJoint.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mobile/!svn/ver/109884/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/Android.mk
+END
+ExtensionMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/ExtensionMacros.h
+END
+cocos-ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/extensions/cocos-ext.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mobile/!svn/ver/109924/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCCommon.cpp
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCApplication.h
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCAccelerometer.cpp
+END
+CCDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCDevice.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCAccelerometer.h
+END
+CCFileUtilsAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCFileUtilsAndroid.cpp
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCEGLView.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCStdC.h
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCImage.cpp
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCPlatformDefine.h
+END
+CCFileUtilsAndroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCFileUtilsAndroid.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/android/CCGL.h
+END

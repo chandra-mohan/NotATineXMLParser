@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mobile/!svn/ver/109882/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libcurl
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mobile/!svn/ver/107255/games/Marvel/trunk/frontendCocos2dx/Cocos2dxLibrary/cocos2dx/platform/third_party/android/prebuilt/libcurl/Android.mk
+END
